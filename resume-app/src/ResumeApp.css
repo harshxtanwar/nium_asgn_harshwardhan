@@ -1,0 +1,31 @@
+/* src/ResumeApp.css */
+.resume-app-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .upload-section,
+  .search-section,
+  .search-result {
+    margin-top: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
